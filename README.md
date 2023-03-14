@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BigBen-7
-- 👀 I’m interested in Web development and a development 
+- 👀 I’m interested in Web development and web app development 
 - 🌱 I’m currently learning javascript Frameworks
 - 💞️ I’m looking to collaborate on learning js
 - 📫 How to reach me benardsimon7@gmail.com 
