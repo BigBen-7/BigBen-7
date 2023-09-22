@@ -1,28 +1,35 @@
 👋 Hi, I'm @BigBen-7
 
-🚀 Frontend React Developer | 💙 Anime Enthusiast | ⚽ Football Fan
+🚀 Frontend React Developer | 🎥 Videographer & Video Editor | 📷 Photographer | ⚽ Football Fan | 💙 Anime Enthusiast
 
 🌟 About Me:
-- 👨‍💻 Passionate about building elegant and interactive web applications with React.
-- 🌆 When not coding, you'll find me exploring the captivating world of anime.
+- 👨‍💻 I'm a passionate frontend React developer who loves crafting user-friendly web applications.
+- 🎥 As a videographer, I specialize in capturing captivating video footage with an eye for visual storytelling.
+- ✂️ I'm also a skilled video editor, transforming raw footage into polished and engaging videos.
+- 📸 Beyond video, I have a passion for photography and enjoy creating stunning images.
 - ⚽ A die-hard football enthusiast, both as a player and a spectator.
+- 💙 I'm an avid anime lover, exploring fascinating worlds in my free time.
 
 🔧 Skills:
-- HTML | CSS | JavaScript
-- React.js | CSS Frameworks
-- [List any other relevant skills or technologies here]
+- HTML | CSS | JavaScript | React.js
+- 🎥 Videography
+- ✂️ Video Editing
+- 📷 Photography
+
 
 🌱 Currently:
 - Sharpening my skills in JavaScript frameworks and exploring the latest frontend technologies.
+- 🌟 Exploring new video editing techniques and staying up-to-date with the latest visual storytelling trends.
 
 📫 Let's Connect:
 - 📧 Email: benardsimon7@gmail.com
-- 🌐 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 🌐 LinkedIn:https://www.linkedin.com/in/benard-simon-181413244/
+- 🐦 Twitter: https://twitter.com/BighaBen_
+- 📸 instagram : https://www.instagram.com/
 
 🛠️ Portfolio:
-- Check out my latest projects and contributions below! ⬇️
-How to reach me benardsimon7@gmail.com 
+- ⏳
+
 
 <!---
 BigBen-7/BigBen-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
