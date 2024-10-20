@@ -1,6 +1,6 @@
 👋 Hi, I'm @BigBen-7
 
-🚀 Frontend React Developer | 🎥 Videographer & Video Editor | 📷 Photographer | ⚽ Football Fan | 💙 Anime Enthusiast
+⚛ Frontend React Developer | 🎥 Video Editor | 📷 Photographer | ⚽ Football Fan | 💙 Anime Enthusiast
 
 🌟 About Me:
 - 👨‍💻 I'm a passionate frontend React developer who loves crafting user-friendly web applications.
